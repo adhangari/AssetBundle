@@ -18,7 +18,7 @@ q-1,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/q
 r-1,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/r
 s-1,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/s
 t-1,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/t
-u-2,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/u
+u-1,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/u
 v-1,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/v
 w-1,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/w
 x-1,https://github.com/adhangari/AssetBundle/raw/refs/heads/main/x
